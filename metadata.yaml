@@ -1,5 +1,8 @@
 _repo: Sterne_12142
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Traill, H. D. (Henry Duff)
@@ -13,6 +16,8 @@ description: H. D. Traill examines the life of Laurence Sterne, from his clergym
   days to the scandals created by his comic and bawdy novel The Life and Opinions
   of Tristam Shandy, Gentleman. This biography reveals a story about a man who discovered
   his literary talents late in life to become a man of notoriety and wealth.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12142#Sterne
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
